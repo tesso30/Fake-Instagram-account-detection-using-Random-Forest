@@ -25,7 +25,7 @@ In this project, we use features extracted from Instagram accounts to classify w
 
 ## Project Structure
 
-ML project/ ├── .vscode/ # VSCode configurations ├── app.py # Flask app for serving the model API ├── best_random_forest_model.pkl # Serialized Random Forest model ├── scaler.pkl # Scaler used for data preprocessing ├── FakeOrAuthentic.csv # Dataset used for training ├── frontend/ │ ├── index.html # Frontend HTML page │ ├── script.js # JavaScript for frontend functionality │ └── styles.css # Styling for the frontend ├── notebooks/ │ └── model_development.ipynb # Model development notebook └── README.md # Project documentation
+- ML project/ ├── .vscode/ # VSCode configurations ├── app.py # Flask app for serving the model API ├── best_random_forest_model.pkl # Serialized Random Forest model ├── scaler.pkl # Scaler used for data preprocessing ├── FakeOrAuthentic.csv # Dataset used for training ├── frontend/ │ ├── index.html # Frontend HTML page │ ├── script.js # JavaScript for frontend functionality │ └── styles.css # Styling for the frontend ├── notebooks/ │ └── model_development.ipynb # Model development notebook └── README.md # Project documentation
 
 ---
 
